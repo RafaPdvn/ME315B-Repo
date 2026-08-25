@@ -1,0 +1,5 @@
+"0","df <- readr::read_csv_chunked(flights.csv, size=100000)
+"
+"2","Error in readr::read_csv_chunked(flights.csv, size = 1e+05) : 
+  argumento não utilizado (size = 1e+05)
+"
